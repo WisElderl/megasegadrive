@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wiselderl.megasegadrive.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wiselderl.megasegadrive.MyBundle
 
 class MyApplicationService {
 
